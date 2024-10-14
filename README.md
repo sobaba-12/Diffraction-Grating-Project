@@ -9,8 +9,8 @@ The tasks in this assessed coursework centre around the interpretation of diffra
 
 ### Intensity Equations
 
-- $I(\phi) = I_0*sinc^2\left(k(L/2)\sin\phi\right)$, this is the function for testing for *square* aperture
-- $I(\theta)=I_0*sinc^4\left[kW\sin\theta/(2\sqrt{2})\right]$, where $W$ is the length of one side of the diamond, this is the function for testing *diamond* apertures
+- $I(\phi) = I_0sinc^2\left(k(L/2)\sin\phi\right)$, this is the function for testing for *square* aperture
+- $I(\theta)=I_0sinc^4\left[kW\sin\theta/(2\sqrt{2})\right]$, where $W$ is the length of one side of the diamond, this is the function for testing *diamond* apertures
 - $I(\theta) = I_0\left(\frac{2 J_1(\pi kD\sin\theta)}{\pi kD\sin\theta}\right)^2$, this is the function for testing for *circle* aperture
 
 The two important properties of the diffraction pattern are:
